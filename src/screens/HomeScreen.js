@@ -11,7 +11,7 @@ const HomeScreen = ({ navigation }) => {
 
 const styles = StyleSheet.create({
   test: {
-    fontFamily: 'Montserrat-Black'
+    fontFamily: 'Montserrat-Bold'
   }
 });
 

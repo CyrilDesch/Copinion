@@ -1,4 +1,4 @@
-package com.copinion;
+package com.cyrild69.copinion;
 
 import com.facebook.react.ReactActivity;
 

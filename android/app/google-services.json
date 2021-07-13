@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464095966918",
+    "project_id": "copinion-870ca",
+    "storage_bucket": "copinion-870ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464095966918:android:573f9ac8c623f1deb509c7",
+        "android_client_info": {
+          "package_name": "com.cyrild69.copinion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464095966918-45alt89atsehigp2iq566pd9h2d4m3um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV8GGd3KSrHiZDQRYIeVWGbUOCrnb8yVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464095966918-45alt89atsehigp2iq566pd9h2d4m3um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

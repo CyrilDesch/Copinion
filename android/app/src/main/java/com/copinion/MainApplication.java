@@ -1,4 +1,4 @@
-package com.copinion;
+package com.cyrild69.copinion;
 
 import android.app.Application;
 import android.content.Context;

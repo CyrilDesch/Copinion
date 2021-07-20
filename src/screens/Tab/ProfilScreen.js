@@ -1,9 +1,10 @@
 import React from 'react';
-import { View, Text, StyleSheet } from 'react-native';
+import { View, Text, StyleSheet, StatusBar } from 'react-native';
 
 const ProfilScreen = ({ navigation }) => {
   return (
     <View>
+      <StatusBar barStyle="dark-content" backgroundColor="white" />
       <Text style={styles.test}>Home</Text>
     </View>
   );
